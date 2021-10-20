@@ -32,7 +32,7 @@ gh repo clone <repo>
 ```
 Despúes de ello, entra a nuestro proyecto y ejecútalo:
 ```
-  np star
+np star
 ```
   
  ### Progreso
